@@ -1,0 +1,18 @@
+https://www.w3schools.com/js/js_arrow_function.asp
+
+
+https://www.youtube.com/playlist?list=PLg9gsnfsIB3wPpM1YDNTOp0lMg3_7228s
+
+
+
+w3 templates
+https://www.w3schools.com/w3css/w3css_templates.asp
+https://transform.tools/html-to-jsx
+
+
+
+https://www.youtube.com/watch?v=4UZrsTqkcW4&t=382s
+
+Projeyi clone ladıktan sonra dizine gidip npm install
+
+https://reactjs.org/docs/create-a-new-react-app.html
